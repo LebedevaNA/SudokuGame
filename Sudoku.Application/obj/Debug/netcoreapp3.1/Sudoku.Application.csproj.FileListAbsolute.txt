@@ -1,0 +1,14 @@
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Application.deps.json
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Application.dll
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Application.pdb
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Domain.dll
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Domain.pdb
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.csprojAssemblyReference.cache
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.AssemblyInfoInputs.cache
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.AssemblyInfo.cs
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.csproj.CopyComplete
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.dll
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\obj\Debug\netcoreapp3.1\Sudoku.Application.pdb
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Common.dll
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Application\bin\Debug\netcoreapp3.1\Sudoku.Common.pdb

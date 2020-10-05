@@ -1,0 +1,401 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Auth.Api\\Sudoku.Auth.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj",
+        "projectName": "Sudoku.Application",
+        "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/TestNuget/nuget/v3/index.json": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/cyfralNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj"
+              },
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Auth.Api\\Sudoku.Auth.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Auth.Api\\Sudoku.Auth.Api.csproj",
+        "projectName": "Sudoku.Auth.Api",
+        "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Auth.Api\\Sudoku.Auth.Api.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Auth.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/TestNuget/nuget/v3/index.json": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/cyfralNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj"
+              },
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj"
+              },
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj"
+              },
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj",
+        "projectName": "Sudoku.Common",
+        "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/TestNuget/nuget/v3/index.json": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/cyfralNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.2-preview-10803222715, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj",
+        "projectName": "Sudoku.Domain",
+        "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/TestNuget/nuget/v3/index.json": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/cyfralNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj",
+        "projectName": "Sudoku.Persistence",
+        "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/TestNuget/nuget/v3/index.json": {},
+          "http://uk-tfs:8080/tfs/Development%20Team/_packaging/cyfralNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Application\\Sudoku.Application.csproj"
+              },
+              "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Domain\\Sudoku.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

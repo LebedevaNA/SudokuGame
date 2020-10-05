@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Ppitshv6OtnN5Q6yk1d1O7Lq8/nihZO/2FFcLZ4zcQZ4KFNGgf7bFeFz5KmoKzR6wZAE1PdFqhRsfcvv7MAig==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.2-preview-10803222715\\microsoft.identitymodel.logging.6.7.2-preview-10803222715.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.2-preview-10803222715\\microsoft.identitymodel.tokens.6.7.2-preview-10803222715.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

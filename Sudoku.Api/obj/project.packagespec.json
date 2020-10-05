@@ -1,0 +1,84 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Api\\Sudoku.Api.csproj",
+    "projectName": "Sudoku.Api",
+    "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Api\\Sudoku.Api.csproj",
+    "outputPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Api\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "http://uk-tfs:8080/tfs/Development%20Team/_packaging/TestNuget/nuget/v3/index.json": {},
+      "http://uk-tfs:8080/tfs/Development%20Team/_packaging/cyfralNuget/nuget/v3/index.json": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj": {
+            "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Common\\Sudoku.Common.csproj"
+          },
+          "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj": {
+            "projectPath": "D:\\MyProjects\\собесы\\sudoku\\Sudoku\\Sudoku.Persistence\\Sudoku.Persistence.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[8.0.1, )"
+        },
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[8.1.0, )"
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[3.1.8, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[3.1.8, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.6.3, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

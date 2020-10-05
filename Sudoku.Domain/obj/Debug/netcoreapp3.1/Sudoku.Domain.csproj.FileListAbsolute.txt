@@ -1,0 +1,9 @@
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\bin\Debug\netcoreapp3.1\Sudoku.Domain.deps.json
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\bin\Debug\netcoreapp3.1\Sudoku.Domain.dll
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\bin\Debug\netcoreapp3.1\Sudoku.Domain.pdb
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\obj\Debug\netcoreapp3.1\Sudoku.Domain.csprojAssemblyReference.cache
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\obj\Debug\netcoreapp3.1\Sudoku.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\obj\Debug\netcoreapp3.1\Sudoku.Domain.AssemblyInfo.cs
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\obj\Debug\netcoreapp3.1\Sudoku.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\obj\Debug\netcoreapp3.1\Sudoku.Domain.dll
+D:\MyProjects\собесы\sudoku\Sudoku\Sudoku.Domain\obj\Debug\netcoreapp3.1\Sudoku.Domain.pdb
